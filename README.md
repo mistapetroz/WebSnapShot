@@ -4,7 +4,7 @@ This is a Simple Java Command line Application that takes a list of Urls and cre
 
 # Demo
 
-![Screenshots]()
+![Screenshots](blob/demo-gif.gif)
 
 ## Getting started
 To get started you need the following from the [Internet if you havent already]()
