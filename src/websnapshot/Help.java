@@ -32,7 +32,7 @@ public class Help {
         System.out.println("                           \"--path=/SW/Chrome/chromedriver.exe\"");
         System.out.println("    ");
         System.out.println("    ");
-        System.out.println("     -- out        storage location for the processed files");
+        System.out.println("     -- output     storage location for the processed files");
         System.out.println("                       Example:");
         System.out.println("                           \"--output=./temp/\"");
         System.out.println("    ");
